@@ -48,4 +48,4 @@ You will learn how to use Linux servers. Real Linux servers. You will learn how 
 You will learn this all through failure. When someone breaks your code, and points out a flaw, it is the most valuable learning opportunity you will receive. If you fail here, that is good. If you fail in the real world, there are consequences.
 
 ## Episode 1: *The Wrapping of Cats*
-`Coming: 01/02/2019`
+[Link](/episode1)
